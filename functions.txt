@@ -1,0 +1,5 @@
+dim  80 60 40  
+   putEllipsoid 40 15 15 10 10 15 1 0 1 1
+   putSphere 10 10 30 10 1 0 1 1
+   cutEllipsoid 20 15 15 20 5 10 1 0 1 1 
+   cutSphere 7 10 30 7 1 0 1 1 
